@@ -1,0 +1,2 @@
+# 07.maxSequenceOfIncreasingElements
+arrayExercise
